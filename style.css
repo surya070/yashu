@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 100px;
+}
+
+#question {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+#yes {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+}
+
+#no {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    position: relative;
+}
